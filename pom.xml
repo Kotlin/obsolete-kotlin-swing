@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <kotlin.version>0.13.1514</kotlin.version>
+        <kotlin.version>0.14.449</kotlin.version>
         <exec-maven-plugin.version>1.2.1</exec-maven-plugin.version>
     </properties>
 
