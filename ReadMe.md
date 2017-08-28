@@ -2,6 +2,8 @@
 
 The Kotlin Swing experimental library provides some helper functions and extensions for creating Swing user interfaces.
 
+The library is obsolete and is no longer supported.
+
 To try the sample run
 
     mvn test -Pui
